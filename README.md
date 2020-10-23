@@ -27,3 +27,4 @@ Camera  | 48MP(Primary) 8MP(Ultra-wide) 13MP(Telephoto)
 # xtended_device_xiaomi_raphael
 # xtended_device_xiaomi_raphael
 # xtended_device_xiaomi_raphael
+# xtended_device_xiaomi_raphael
