@@ -1,3 +1,4 @@
+export SKIP_ABI_CHECKS=true
 rm -rf hardware/qcom-caf/sm8150/display
 rm -rf hardware/qcom-caf/sm8150/media
 rm -rf hardware/qcom-caf/sm8150/audio
